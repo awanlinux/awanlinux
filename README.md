@@ -1,0 +1,2 @@
+# awanlinux
+web kerja praktek
